@@ -1,3 +1,4 @@
+#แบบฝึกหัด2.1
 """
 a1 = input('First number: ')
 a2 = input('Second number: ')
@@ -29,6 +30,7 @@ print(c)
 c = a >> b
 print(c)
 """
+#แบบฝึกหัด2.2
 """
 print('Day Coverter Program')
 days = input('Input number of days -->  ')
