@@ -5,7 +5,7 @@ animal.add('mokey')
 animal.update('[python','capibara','spider','wombat','penguin','crocodile'])
 print(animal)
 """
-
+#เเบบฝึกหัดที่2.3
 """
 print("********************\n Addd to basket program \n********************")
 a = []
@@ -19,7 +19,7 @@ print('3.'+a[2])
 print('4.'+a[3])
 print('5.'+a[4])
 """
-
+#แบบฝึกหัด2.4
 print('\tโปรเเกรมคำนวณค่าผ่านทางมอเตอร์เวย์')
 print('-'*50)
 print('\tรถยนต์ 4 ล้อ กด 1')
