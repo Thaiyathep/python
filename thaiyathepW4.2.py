@@ -1,3 +1,4 @@
+#โปรแกรมรับคะเเนนยิงปืน
 import time
 def wela():
     vantee = time.localtime()
