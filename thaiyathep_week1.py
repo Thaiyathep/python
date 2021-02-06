@@ -23,6 +23,7 @@ c = complex(x) # int(20) to complex(20)
 print(x,y,z)
 print(a,b,c)
 """
+#แบบฝึกหัดที่ 3
 """frist=input("Enter first number : ")
 second=input("Enter second number : ")
 thied=input("Enter thied number : ")
